@@ -18,3 +18,7 @@ console.log(stats);
 // This is used to compute your own stats or get more frame-specific info (advanced)
 const frames = game.getFrames();
 console.log(frames[0].players); // Print frame when timer starts counting down
+console.log(frames[1].players);
+console.log(frames[2].players);
+console.log(frames[3].players);
+console.log(frames[4].players);
